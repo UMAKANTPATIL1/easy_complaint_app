@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "658278332497",
+    "project_id": "easy-complaint-system",
+    "storage_bucket": "easy-complaint-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658278332497:android:5163e02107e216af882070",
+        "android_client_info": {
+          "package_name": "com.example.easy_complaint_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658278332497-l70ngl240qu78c9qqr6h894070b3rj36.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.easy_complaint_system",
+            "certificate_hash": "f4ed895cc1da35a5c436dbdd1f26827e7181f087"
+          }
+        },
+        {
+          "client_id": "658278332497-c23vcd2voiho54svnrbmsnpgpj8mm95h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB52NR9QJqKYMzh-SkXntxuChWi5wJ_h6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658278332497-c23vcd2voiho54svnrbmsnpgpj8mm95h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
